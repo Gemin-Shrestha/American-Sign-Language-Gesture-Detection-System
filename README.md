@@ -1,5 +1,5 @@
 # American Sign Language Gesture Detection System
-
+**May 2022**
 ## Description:
 Welcome to our Sign Language Translator Web Application, a powerful tool designed to assist the people who are having hearing problems and are unable to speak to individuals in a two-way communication with others without wasting too much time and effort. 
 Our application provides seamless conversion between Sign languages and Textual representations, including custom signs such as Space, Delete, and Nothing, catering to diverse communication needs.
